@@ -688,6 +688,6 @@ b{
 }
 @media screen and (max-width: 360px){
 	.longList__item__number {
-	    left: -16px;
+	    left: -14px;
 	}
 }
