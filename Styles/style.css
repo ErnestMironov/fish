@@ -480,6 +480,8 @@ b{
 	height: 4px;
 	background: #01E0FF;
 }
+
+
 @media screen and (max-width: 1700px){
 	.fishDescription__textBlock{
 		font-size: 12px;
