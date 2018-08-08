@@ -617,7 +617,7 @@ b{
     	right: -6px;
 	}
 	.longList, .container_longList{
-		overflow: visible;
+		overflow: visible!important;
 		height: auto;
 	}
 	.logList__item__arrow{
