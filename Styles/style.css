@@ -612,6 +612,7 @@ b{
 	}
 	.container_longList > .slick-arrow-prev {
     	left: 0px;
+	z-index:2;
 	}
 	.container_longList > .slick-arrow-next {
     	right: 0px;
