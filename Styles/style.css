@@ -611,10 +611,10 @@ b{
 		top: -25px;
 	}
 	.container_longList > .slick-arrow-prev {
-    	left: -6px;
+    	left: 0px;
 	}
 	.container_longList > .slick-arrow-next {
-    	right: -6px;
+    	right: 0px;
 	}
 	.longList, .container_longList{
 		overflow: visible;
