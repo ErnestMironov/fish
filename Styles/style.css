@@ -573,7 +573,7 @@ b{
 		width: 37px;
 	}
 	.screen{
-		height: auto!important;
+		height: auto;
 	}
 	.fishDescription{
 		grid-template-columns: 1fr;
