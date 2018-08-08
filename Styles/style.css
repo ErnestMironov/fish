@@ -572,7 +572,7 @@ b{
 	.header__menubar:before, .header__menubar:after{
 		width: 37px;
 	}
-	.screen{
+	.screen_second{
 		height: auto!important;
 	}
 	.fishDescription{
@@ -618,12 +618,13 @@ b{
 	}
 	.longList, .container_longList{
 		overflow: inherit;
+		height: auto;
 	}
 	.logList__item__arrow{
 		display: none;
 	}
 	.container_longList > .slick-arrow{
-		margin-top: -51.5px;
+		margin-top: 10.5px;
 	}
 	.screen_second > .container_main{
 		padding: 45px 15px;
