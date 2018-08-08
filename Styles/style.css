@@ -573,7 +573,7 @@ b{
 		width: 37px;
 	}
 	.screen{
-		height: auto;
+		height: auto!important;
 	}
 	.fishDescription{
 		grid-template-columns: 1fr;
@@ -641,7 +641,7 @@ b{
 	}
 	.popup_mobile{
 		display: none;
-		height: 100vh;
+		height: 100vh!important;
 		flex-direction: column;
 	}
 	.container_popup{
