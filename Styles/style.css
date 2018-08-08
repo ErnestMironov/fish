@@ -572,7 +572,7 @@ b{
 	.header__menubar:before, .header__menubar:after{
 		width: 37px;
 	}
-	.screen_second{
+	.screen{
 		height: auto!important;
 	}
 	.fishDescription{
